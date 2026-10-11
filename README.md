@@ -31,6 +31,3 @@ A simple and clean task manager web app built with **HTML, CSS, and JavaScript**
 * HTML
 * CSS
 * JavaScript (localStorage)
----
-## **AI Usage Declaration**
-*50% CSS and js
